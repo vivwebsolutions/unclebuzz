@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+a.wdfb_register_button, a.wdfb_register_button:hover, a.wdfb_register_button:active, a.wdfb_register_button:visited {
+	display: block;
+	height: 39px;
+	background: url(../img/fb-big-button.png) top left no-repeat #5B74A8;
+	border: 1px solid black;
+	border-color: #29447E #29447E #1A356E;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+	color: #FFF;
+	line-height: 36px !important;
+	font-size: 14px;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+}

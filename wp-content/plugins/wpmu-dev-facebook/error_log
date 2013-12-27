@@ -1,0 +1,13 @@
+[21-Aug-2011 09:31:38] PHP Fatal error:  Call to undefined function  is_multisite() in /home/boodie/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[05-Sep-2011 10:02:38] PHP Fatal error:  Call to undefined function  is_multisite() in /home/boodie/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[30-Jan-2012 23:15:43] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[02-Feb-2012 18:23:40] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[02-Feb-2012 18:25:02] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[28-Jun-2012 23:52:45] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[01-Aug-2012 09:48:09] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[23-Sep-2012 16:10:29] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[01-Feb-2013 12:18:14] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[07-Feb-2013 11:52:27] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[24-Aug-2013 21:39:10] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[26-Aug-2013 18:04:35] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37
+[27-Aug-2013 20:28:41] PHP Fatal error:  Call to undefined function  is_multisite() in /home/unclebuz/public_html/wp-content/plugins/wpmu-dev-facebook/wpmu-dev-facebook.php on line 37

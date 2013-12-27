@@ -1,0 +1,4 @@
+[02-Feb-2012 18:23:27] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/unclebuz/public_html/wp-content/plugins/google-calendar-events/google-calendar-events.php on line 44
+[02-Feb-2012 18:26:48] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/unclebuz/public_html/wp-content/plugins/google-calendar-events/google-calendar-events.php on line 44
+[01-Feb-2013 12:17:47] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/unclebuz/public_html/wp-content/plugins/google-calendar-events/google-calendar-events.php on line 44
+[24-Aug-2013 21:38:45] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/unclebuz/public_html/wp-content/plugins/google-calendar-events/google-calendar-events.php on line 44

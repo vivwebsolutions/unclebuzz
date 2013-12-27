@@ -1,0 +1,1 @@
+[01-Jun-2013 00:48:34] PHP Fatal error:  Call to undefined function  add_action() in /home/unclebuz/public_html/wp-content/plugins/akismet/legacy.php on line 356

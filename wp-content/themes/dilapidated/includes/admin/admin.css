@@ -1,0 +1,191 @@
+/* Theme Options Container */
+#theme_options_container {
+position: relative;
+width: 800px;
+}
+
+/* Theme Options Link */
+#theme_option_links {
+float: left;
+padding: 15px 0;
+color: #464646;
+font-size: 12px;
+}
+#theme_option_links li {
+float: left;
+line-height: 23px;
+padding-left: 30px;
+margin-right: 25px;
+background: url(images/info_button.png) no-repeat;
+}
+#theme_option_links a {
+color: #464646;
+font-weight: bold;
+text-decoration: none;
+}
+#theme_option_links a:hover {
+text-decoration: underline;
+}
+
+/* Buttons */
+.submit {
+padding: 15px 0;
+margin: 0;
+}
+.theme_buttons_top, .theme_buttons_bottom {
+float: right;
+}
+.theme_buttons_bottom form, .theme_buttons_bottom input {
+float: left;
+margin: 0 0 0 5px;
+}
+input[type="submit"], input[type="reset"] {
+cursor: pointer;
+}
+
+/* Tabs */
+#tabs {
+float: left;
+position: relative;
+z-index: 1;
+margin: 0;
+width: 180px;
+border-top: 1px solid #c0c0c0;
+}
+#tabs a {
+display:block;
+padding:10px 15px;
+text-decoration:none !important;
+font-size:12px;
+color: #000000;
+font-weight: normal;
+background: #f1f1f1;
+color: #404040;
+border-left: 1px solid #c0c0c0;
+border-right: 1px solid #c0c0c0;
+border-bottom: 1px solid #c0c0c0;
+}
+#tabs a:hover {
+background-color:#ffffff;
+}
+#tabs .tab-active {
+background: #ffffff;
+color: #000000;
+border-right: 0px solid #ffffff;
+font-weight: bold;
+}
+#tabs a {
+margin: 0;
+}
+
+/* Tab Options */
+.option_tab {
+float: left;
+position: relative;
+z-index: 0;
+width: 579px;
+min-height: 700px;
+padding: 10px 20px 10px 20px;
+background: #ffffff;
+margin-left: -1px;
+border: 1px solid #c0c0c0;
+}
+.option {
+clear: both;
+margin: 0 0 20px 0;
+}
+.option h3 {
+font-size: 14px;
+margin: 0 0 5px 0;
+padding: 0;
+}
+.option_desc {
+width: 410px;
+font-size: 10px;
+color: #808080;
+}
+
+/* Text Box */
+.theme_input {
+padding: 5px;
+width: 400px;
+}
+
+/* Dimensions Box */
+.dimensions .theme_input {
+float: left;
+width: 50px;
+}
+.dimensions span {
+float: left;
+margin: 4px 0 0 3px;
+}
+.dimensions .option_desc {
+clear: both;
+}
+
+/* Textarea */
+.theme_textarea {
+padding: 5px;
+width: 500px;
+height: 200px;
+}
+
+/* Select */
+.theme_select {
+font-size: 12px !important;
+}
+
+/* On Focus */
+.theme_input:focus, .theme_dimensions:focus, .theme_select:focus, .theme_textarea:focus {
+border: 1px solid #808080;
+}
+
+/* Checkbox */
+.theme_checkbox {
+float: left;
+margin: 1px 0 0 0;
+border: 0 none;
+}
+.theme_checkbox_desc {
+color: #808080;
+float: left;
+width: 410px;
+font-size: 10px;
+padding: 0 0 20px 10px;
+}
+
+/* Radio Buttons */
+.theme_radio_wrapper {
+width: 100%;
+padding: 0 0 5px 0;
+}
+.theme_radio_wrapper label {
+padding-left: 5px;
+}
+.theme_radio_wrapper input {
+border: 0 none;
+}
+
+/* General Styling */
+.divider {
+clear: both;
+width: 100%;
+height: 1px;
+line-height: 1px;
+padding: 10px 0;
+margin: 0;
+border-top: 1px dotted #c0c0c0;
+}
+xmp {
+display: inline;
+}
+.left {
+float: left;
+}
+.right {
+float: right;
+}
+.clear {
+clear: both;
+}

@@ -1,0 +1,1 @@
+[02-Feb-2012 18:27:00] PHP Fatal error:  Class 'WP_Widget' not found in /home/unclebuz/public_html/wp-content/plugins/google-calendar-events/widget/gce-widget.php on line 2

@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+.wdfb_connect_widget_container .wdfb_connect_target {
+	display: none;
+	padding: 7px 0;
+	border-top: 1px solid #ccc;
+	overflow:hidden;
+}
+
+
+.wdfb_connect_widget_container {
+	clear: left;
+}
+
+.wdfb_connect_widget_container ul {
+	margin: 0 !important; padding: 0 !important;
+	list-style: none !important;
+}
+.wdfb_connect_widget_container ul li {
+	float: left;
+}
+
+.wdfb_connect_widget_container ul li a, .wdfb_connect_widget_container ul li a:hover {
+	display: block;
+	padding: 3px;
+	width: 60px;
+	background-color: #5F78AB;
+	color: #333;
+	text-decoration: none;
+	color: white;
+}
+.wdfb_connect_widget_container ul li a.wdfb_active {
+	background-color: #879AC0;
+	border-bottom: none;
+}
+.wdfb_connect_widget_container ul li a span {
+	margin-left: 7px;
+}
+
+.wdfb_connect_widget_action_links li{
+	padding: 0 !important;
+	margin: 0 5px 0 0 !important;
+}
+
+.wdfb_connect_widget_action_links {
+	padding: 0 0 3px 0 !important;
+	height: 25px;
+}
